@@ -47,3 +47,8 @@ li:hover {
     cursor: pointer;
     background-color: #f5f4f4e7;
 }
+
+footer {
+    padding-top: 2rem;
+    color: #1a1a1a;
+}
