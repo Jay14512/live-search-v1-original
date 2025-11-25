@@ -2,7 +2,6 @@
 
 Original version of a JavaScript live search application created during my JavaScript module.
 
-
 **Module:** JavaScript  
 **Goal:** API Handling and Live Search Function  
 **Status:** ✅ Done  
@@ -25,7 +24,6 @@ Using the ZIP code, the app retrieves longitude and latitude values via an exter
 - Auto-fill ZIP code
 - Fetching coordinates via Web API
 - Real-time UI updates
-
 
 ## Main Goal
 Implementing and handling APIs in JavaScript, creating a dynamic live search with real-time data.
